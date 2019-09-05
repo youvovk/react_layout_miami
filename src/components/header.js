@@ -16,7 +16,7 @@ function Header() {
             <div className="header__logo">
               <img
                 className="logo-icon"
-                src="/images/header__logo.png"
+                src="images/header__logo.svg"
                 alt="miami-logo"
               />
             </div>
