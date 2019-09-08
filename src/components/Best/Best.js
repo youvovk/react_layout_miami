@@ -1,5 +1,6 @@
 import React from 'react';
-import '../App.scss';
+import './Best.scss';
+import './Section.scss';
 
 function Best() {
   return (

@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.scss';
-import Header from './components/header';
-import Best from './components/best';
-import Gallery from './components/gallery';
-import Consultation from './components/consultation';
-import Testimonials from './components/testimonials';
-import Contact from './components/contact';
-import Footer from './components/footer';
+import Header from './components/Header/Header';
+import Best from './components/Best/Best';
+import Gallery from './components/Gallary/Gallery';
+import Consultation from './components/Consultation/Consultation';
+import Testimonials from './components/Testimonials/Testimonials';
+import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (

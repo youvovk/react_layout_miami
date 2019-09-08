@@ -1,5 +1,6 @@
 import React from 'react';
-import '../App.scss';
+import './Common.scss';
+import './Section.scss';
 
 function Consultation() {
   return (

@@ -1,5 +1,6 @@
 import React from 'react';
-import '../App.scss';
+import './Apart.scss';
+import './Section.scss';
 
 function Gallery() {
   return (
