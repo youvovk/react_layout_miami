@@ -76,13 +76,10 @@
   border: none;
   width: 100%;
   font-size: 16px;
+  outline-color: #1cabec;
 
   &::placeholder {
     font-size: 14px;
-  }
-
-  &:hover {
-    cursor: pointer;
   }
 }
 
@@ -109,6 +106,9 @@
   &:hover {
     cursor: pointer;
     background-color: darken(#1cabec, 10);
+  }
+
+  &:active {
     transform: translate(0, 2px);
   }
 
