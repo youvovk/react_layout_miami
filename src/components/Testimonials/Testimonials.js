@@ -32,7 +32,7 @@ function Testimonials() {
               <p>
                 My soul is illuminated by an unearthly joy,
                 as these beautiful spring morning,
-                which I enjoy with all my heart. I`m
+                which I enjoy with all my heart. I&apos;m
                 all alone and blissfully happy in the local edge.
                 as if created for the likes of me.
               </p>

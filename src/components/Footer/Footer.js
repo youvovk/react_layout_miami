@@ -8,7 +8,7 @@ function Footer() {
         <img className="logo-icon" src="images/header__logo.svg" alt="" />
       </div>
       <div className="footer__copy">
-          © 2013 Miami.
+        © 2013 Miami.
       </div>
     </footer>
   );

@@ -45,9 +45,9 @@ function Best() {
             </ol>
             <p>
               <strong>
-              We will never late!
+                We will never late!
                 <br />
-              Guaranteed secure transaction - 100%
+                Guaranteed secure transaction - 100%
               </strong>
             </p>
           </div>
